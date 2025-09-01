@@ -1,2 +1,2 @@
 # HZSCM
-yperspectral Image Zero-Shot Classification via Vision-Language Models
+Hyperspectral Image Zero-Shot Classification via Vision-Language Models
